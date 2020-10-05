@@ -12,7 +12,7 @@ print("Today's date is",today)
 # Is it October?
 
 mo = "Yes!" if (today.month == 10) else "No..."
-print(mo)
+print("Is it October?", mo)
 
 # Halloween countdown
 
