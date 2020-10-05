@@ -19,4 +19,4 @@ print("Is it October?", mo)
 if (today.month != 10):
   st = "It's not even October.."
 else:
-  print("Halloween is just ", 31 - today.day,"days away!")
+  print("Halloween is just", 31 - today.day,"days away!")
